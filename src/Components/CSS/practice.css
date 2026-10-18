@@ -1,0 +1,45 @@
+.banner
+{
+    color: brown;
+}
+
+.link
+{
+    font-size: 20px;
+    font-family: cursive;
+
+}
+
+.code
+{
+    color: blueviolet;
+    font-size: 20px;
+}
+
+.error
+{
+    color: red;
+}
+
+.student table
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 300px;
+    margin-bottom: 10px;
+    text-align: left;
+
+}
+
+.student tr
+{
+    padding: 10px;
+}
+
+.student td,th
+{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    
+}
